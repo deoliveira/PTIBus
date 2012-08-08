@@ -1,0 +1,5 @@
+# Arquivos ocultos criados pelo Mac OS X
+.DS_Store
+
+# Pastas do projeto Android
+bin/*
